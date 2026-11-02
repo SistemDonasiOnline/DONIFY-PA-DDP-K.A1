@@ -41,28 +41,27 @@ Kelompok A1 (DONIFY):
 <br>
 
 
+**A. Flowchart**
 
-A. Flowchart
-
-1. Flowchart Menu Utama
+**1. Flowchart Menu Utama**
 <img width="6144" height="4932" alt="Fc_MenuUtama" src="https://github.com/user-attachments/assets/bf5d1768-5ffe-4a18-a173-7977dd35eab5" /><br>
 Penjelasan:<br>
 Program dimulai dari Start, lalu sistem menampilkan Menu Utama yang berisi pilihan Login, Registrasi, dan Keluar. Jika memilih Login, pengguna memasukkan username, password, dan role untuk dicocokkan dengan data pada users.json, kemudian diarhkan ke Menu Admin atau Menu User sesuai rolenya. Jika memilih Registrasi, pengguna membuat akun baru yang disimpan ke file JSON, lalu sistem kembali ke Menu Utama. Pilihan Keluar akan mengakhiri program, sedangkan input yang kosong atau tidak valid akan ditolak dan pengguna dikembalikan ke Menu Utama.
 <br>
 
-2. Flowchart Menu Admin
+**2. Flowchart Menu Admin**
 <img width="9060" height="7004" alt="Fc_MenuAdmin" src="https://github.com/user-attachments/assets/df7539bc-1fac-4759-a7a7-93bfa1401746" /><br>
 Penjelasan:<br>
 Setelah masuk ke Menu Admin, sistem menampilkan tujuh pilihan menu, yaitu Lihat Kampanye, Tambah Kampanye, Ubah Kampanye, Hapus Kampanye, Riwayat Transaksi, Laporan Singkat, dan Logout. Pada Lihat Kampanye, sistem memuat data dari file kampanye.json dan menampilkannya kepada admin. Pada Tambah Kampanye, admin memasukkan nama serta target donasi yang akan divalidasi terlebih dahulu agar tidak kosong, lalu data kampanye baru disimpan ke file JSON. Pada Ubah Kampanye, admin memilih kampanye berdasarkan ID dan memasukkan data baru yang mengantikan data lama, sedangkan pada Hapus Kampanye, admin memasukkan ID kampanye dan sistem meminta konfirmasi sebelum data dihapus dari file JSON. Riwayat Transaksi menampilkan data dari file transaksi.json, sementara Laporan Singkat menyajikan total donasi masuk, jumlah transaksi, dan kampanye unggulan. Pilihan Logout mengembalikan admin ke Menu Utama, dan setiap proses yang telah selesai akan kembali ke Menu Admin, sedangkan input yang tdak valiid atau kosong akan ditolak dan admin diminta memilih ulang.
 <br>
 
-3. Flowchart Menu User
+**3. Flowchart Menu User**
 <img width="8252" height="7172" alt="Fc_MenuUser" src="https://github.com/user-attachments/assets/25e27b15-ba2b-4b3d-a575-917f53cecf83" /><br>
 Penjelasan:<br>
 Setelah masuk ke Menu User, sistem menampilkan pilihan menu yang terdiri dari Lihat Kampanye, Cek Saldo, Top Up Saldo, Donasi, Invoice, dan Logout. Pada pilihan Lihat Kampanye, sistem memuat data dari file kampanye.json lalu menampilkannya kepada pengguna, sedangkan pada pilihan Cek Saldo, sistem memuat data akun dari Login.json dan menampilkan saldo yang dimiliki. Selanjutnya, pada pilihan Top Up Saldo, pengguna memilih nominal yang tersedia, lalu sistem memvalidasinya dan menambahkan saldo ke data akun jika input benar. Pada pilihan Donasi, pengguna memilih kampanye berdasarkan ID dan memasukkan nominal donasi, kemudian sistem memeriksa apakah saldo cukup serta nominalnya valid sebelum mencatat transaksi ke transaksi.json. Pilihan Invoice berfungsi menampilkan bukti transaksi yang telah dilakukan, sedangkan Logout mengembalikan pengguna ke Menu Utama. Setiap proses yang selesai akan kembali ke Menu User, di mana input yang kosong atau tidak valid akan ditolak sehingga pengguna diminta untuk memilih ulang.
 <br>
 
-Tabel Kontribusi
+**c. Tabel Kontribusi**
 |**Nama**|**Kontribusi**|**Bagian**|
 |---|---|---|
 |AWANG FARID AL BUHARI (2609116003)|Konsep, Coding|	1.	Referensi konsep program<br> 2.	Coding |
