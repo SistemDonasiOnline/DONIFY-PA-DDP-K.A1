@@ -7,6 +7,8 @@ Kelompok A1 (DONIFY):
 4. Muthiara May Lista (2609116020)
 <br>
 
+A. Flowchart
+
 1. Flowchart Menu Utama
 <img width="6144" height="4932" alt="Fc_MenuUtama" src="https://github.com/user-attachments/assets/bf5d1768-5ffe-4a18-a173-7977dd35eab5" />
 2. Flowchart Menu Admin
