@@ -10,10 +10,9 @@ Kelompok A1 (DONIFY):
 
 👨‍💻Fitur untuk Admin:
 1. Login Admin – Masuk ke sistem menggunakan akun admin.
-2. Kelola Kampanye – Menambahkan, mengubah, dan menghapus kampanye donasi.
-3. Lihat Kampanye – Melihat daftar kampanye.
-4. Riwayat Transaksi – Melihat seluruh riwayat transaksi donasi dari semua donatur.
-5. Laporan Donasi – Menampilkan total donasi masuk, jumlah transaksi, dan kampanye unggulan.
+2. CRUD Kampanye – Melihat, menambahkan, mengubah, dan menghapus kampanye donasi.
+3. Riwayat Transaksi – Melihat seluruh riwayat transaksi donasi dari semua donatur.
+4. Laporan Donasi – Menampilkan total donasi masuk, jumlah transaksi, dan kampanye unggulan.
 <br>
 
 
@@ -28,7 +27,7 @@ Kelompok A1 (DONIFY):
 <br>
 
 
-💻Tools:
+💻Tools & Library:
 1. Python – Bahasa pemrograman utama.
 2. JSON – Tempat penyimpanan data akun pengguna, kampanye, dan transaksi.
 3. PrettyTable – Menampilkan data kampanye dan riwayat transaksi dalam tabel yang rapi.
