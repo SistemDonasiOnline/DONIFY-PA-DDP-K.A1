@@ -7,6 +7,41 @@ Kelompok A1 (DONIFY):
 4. Muthiara May Lista (2609116020)
 <br>
 
+
+👨‍💻Fitur untuk Admin:
+1. Login Admin – Masuk ke sistem menggunakan akun admin.
+2. Kelola Kampanye – Menambahkan, mengubah, dan menghapus kampanye donasi.
+3. Lihat Kampanye – Melihat daftar kampanye.
+4. Riwayat Transaksi – Melihat seluruh riwayat transaksi donasi dari semua donatur.
+5. Laporan Donasi – Menampilkan total donasi masuk, jumlah transaksi, dan kampanye unggulan.
+<br>
+
+
+🙇‍♀️Fitur untuk Donatur (User):
+1. Registrasi dan Login – Membuat akun baru dan masuk ke sistem menggunakan username dan password.
+2. Lihat Kampanye – Melihat daftar kampanye donasi yang tersedia beserta target dan persentase dana terkumpul.
+3. Cek Saldo – Melihat jumlah saldo yang dimiliki.
+4. Top Up Saldo – Menambahkan saldo sesuai pilihan nominal yang ada.
+5. Donasi – Menyalurkan donasi ke kampanye yang tersedia menggunakan saldo akun.
+6. Invoice Donasi – Mendapatkan bukti transaksi.
+7. Riwayat Donasi – Melihat daftar transaksi donasi yang pernah dilakukan.
+<br>
+
+
+💻Teknlogi:
+1. Python – Bahasa pemrograman utama.
+2. JSON – Tempat penyimpanan data akun pengguna, kampanye, dan transaksi.
+3. PrettyTable – Menampilkan data kampanye dan riwayat transaksi dalam tabel yang rapi.
+4. pwinput – Menyembunyikan input password saat proses registrasi dan login.
+5. os – Mengelola tampilan terminal, termasuk membersihkan layar.
+6. time – Mengatur jeda program dan mencatat waktu transaksi donasi.
+7. try-except – Menangani kesalahan seperti file tidak ditemukan, input tidak valid, dan pembagian dengan nol.
+8. Dictionary dan List – Mengelola data pengguna, kampanye, serta transaksi.
+9. Function – Membagi program menjadi beberapa fungsi agar lebih terstruktur.
+<br>
+
+
+
 A. Flowchart
 
 1. Flowchart Menu Utama
