@@ -1,0 +1,82 @@
+[
+    {
+        "username": "fariddd",
+        "kode": "TRX-1",
+        "nama_kampanye": "bantu farid beli ip",
+        "id_kampanye": 6,
+        "nominal": 250000,
+        "waktu": "2026-10-25 17:53:25"
+    },
+    {
+        "username": "user",
+        "kode": "TRX-2",
+        "nama_kampanye": "Beasiswa Anak Pedalaman",
+        "id_kampanye": 1,
+        "nominal": 100000,
+        "waktu": "2026-10-25 18:35:19"
+    },
+    {
+        "username": "fariddd",
+        "kode": "TRX-3",
+        "nama_kampanye": "bantu farid beli ip",
+        "id_kampanye": 6,
+        "nominal": 290000,
+        "waktu": "2026-10-25 18:46:58"
+    },
+    {
+        "username": "fariddd",
+        "kode": "TRX-4",
+        "nama_kampanye": "Operasi Jantung Bayu",
+        "id_kampanye": 2,
+        "nominal": 5000,
+        "waktu": "2026-10-25 20:15:30"
+    },
+    {
+        "username": "fariddd",
+        "kode": "TRX-5",
+        "nama_kampanye": "Operasi Jantung Bayu",
+        "id_kampanye": 2,
+        "nominal": 2000,
+        "waktu": "2026-10-25 20:21:52"
+    },
+    {
+        "username": "user",
+        "kode": "TRX-6",
+        "nama_kampanye": "bantu warga terdampak karhutla",
+        "id_kampanye": 7,
+        "nominal": 1000000,
+        "waktu": "2026-10-29 12:51:25"
+    },
+    {
+        "username": "fariddd",
+        "kode": "TRX-7",
+        "nama_kampanye": "Sembako Panti Asuhan",
+        "id_kampanye": 5,
+        "nominal": 5,
+        "waktu": "2026-10-29 12:56:55"
+    },
+    {
+        "username": "fariddd",
+        "kode": "TRX-8",
+        "nama_kampanye": "Sembako Panti Asuhan",
+        "id_kampanye": 5,
+        "nominal": 5,
+        "waktu": "2026-10-29 12:57:18"
+    },
+    {
+        "username": "fariddd",
+        "kode": "TRX-9",
+        "nama_kampanye": "bantu warga terdampak karhutla",
+        "id_kampanye": 7,
+        "nominal": 1000,
+        "waktu": "2026-10-29 13:20:45"
+    },
+    {
+        "username": "isan",
+        "kode": "TRX-10",
+        "nama_kampanye": "bantu farid beli ip",
+        "id_kampanye": 6,
+        "nominal": 200000,
+        "waktu": "2026-10-29 13:28:07"
+    }
+]

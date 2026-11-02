@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "nama": "Beasiswa Anak Pedalaman",
+        "kategori": "Pendidikan",
+        "target": 5000000,
+        "terkumpul": 550000
+    },
+    {
+        "id": 2,
+        "nama": "Operasi Jantung Bayu",
+        "kategori": "Kesehatan",
+        "target": 20000000,
+        "terkumpul": 367000
+    },
+    {
+        "id": 3,
+        "nama": "Bantu Korban Banjir Kalsel",
+        "kategori": "Bencana Alam",
+        "target": 10000000,
+        "terkumpul": 500000
+    },
+    {
+        "id": 4,
+        "nama": "Buku untuk Taman Baca",
+        "kategori": "Pendidikan",
+        "target": 2000000,
+        "terkumpul": 230000
+    },
+    {
+        "id": 5,
+        "nama": "Sembako Panti Asuhan",
+        "kategori": "Sosial",
+        "target": 3000000,
+        "terkumpul": 150010
+    },
+    {
+        "id": 6,
+        "nama": "bantu farid beli ip",
+        "kategori": "sosial",
+        "target": 45000000,
+        "terkumpul": 740000
+    },
+    {
+        "id": 7,
+        "nama": "bantu warga terdampak karhutla",
+        "kategori": "bencana alam",
+        "target": 100000000,
+        "terkumpul": 1001000
+    }
+]
