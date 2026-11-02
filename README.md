@@ -28,7 +28,7 @@ Kelompok A1 (DONIFY):
 <br>
 
 
-💻Teknlogi:
+💻Tools:
 1. Python – Bahasa pemrograman utama.
 2. JSON – Tempat penyimpanan data akun pengguna, kampanye, dan transaksi.
 3. PrettyTable – Menampilkan data kampanye dan riwayat transaksi dalam tabel yang rapi.
