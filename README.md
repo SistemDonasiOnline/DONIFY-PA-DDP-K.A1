@@ -1,0 +1,6 @@
+PROJECT AKHIR DASAR PEMROGRAMAN; SISTEM DONASI ONLINE.
+Kelompok A1 (DONIFY):
+1. Awang Farid Al Buhari (2609116003)
+2. Muhammad Ihsan (2609116009)
+3. Jihanun Syam Nafi'ah (2609116017)
+4. Muthiara May Lista (2609116020)
