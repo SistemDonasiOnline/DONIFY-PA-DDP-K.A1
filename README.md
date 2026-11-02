@@ -61,6 +61,66 @@ Penjelasan:<br>
 Setelah masuk ke Menu User, sistem menampilkan pilihan menu yang terdiri dari Lihat Kampanye, Cek Saldo, Top Up Saldo, Donasi, Invoice, dan Logout. Pada pilihan Lihat Kampanye, sistem memuat data dari file kampanye.json lalu menampilkannya kepada pengguna, sedangkan pada pilihan Cek Saldo, sistem memuat data akun dari Login.json dan menampilkan saldo yang dimiliki. Selanjutnya, pada pilihan Top Up Saldo, pengguna memilih nominal yang tersedia, lalu sistem memvalidasinya dan menambahkan saldo ke data akun jika input benar. Pada pilihan Donasi, pengguna memilih kampanye berdasarkan ID dan memasukkan nominal donasi, kemudian sistem memeriksa apakah saldo cukup serta nominalnya valid sebelum mencatat transaksi ke transaksi.json. Pilihan Invoice berfungsi menampilkan bukti transaksi yang telah dilakukan, sedangkan Logout mengembalikan pengguna ke Menu Utama. Setiap proses yang selesai akan kembali ke Menu User, di mana input yang kosong atau tidak valid akan ditolak sehingga pengguna diminta untuk memilih ulang.
 <br>
 
+**B. Output Program**
+<br>
+
+<img width="214" height="105" alt="1menuutama" src="https://github.com/user-attachments/assets/c9760eaf-3719-4cbc-bccd-45beae98b8eb" />
+
+**Admin DONIFY**
+
+1. Login DONIFY
+<img width="223" height="85" alt="loginadmin" src="https://github.com/user-attachments/assets/424d1c60-37c8-4556-9cfa-47aa0079c867" />
+
+2. Menu DONIFY
+<img width="211" height="170" alt="2menuadmin" src="https://github.com/user-attachments/assets/5d3df7ec-cec4-45eb-802e-9ac28ae70415" />
+
+3. Lihat Kampanye
+<img width="642" height="240" alt="3adminuserlihat" src="https://github.com/user-attachments/assets/865b38a0-b41f-4a1a-bc9c-8b458a6d3677" />
+
+4. Tambah Kampanye
+<img width="355" height="132" alt="4tambahadmin" src="https://github.com/user-attachments/assets/e0f7df0e-cd59-4130-a13b-91c556aaa0e2" />
+
+5. Ubah Kampanye
+<img width="732" height="321" alt="5ubahadmin" src="https://github.com/user-attachments/assets/3000fcac-6083-4881-afe4-e4d55caab7c5" />
+
+6. Hapus Kampanye
+<img width="653" height="303" alt="6hapusadmin" src="https://github.com/user-attachments/assets/814f35af-00ab-43fb-a4b2-5db9113a019f" />
+
+7. Riwayat Semua Transaksi
+<img width="623" height="305" alt="7riwayatadmin" src="https://github.com/user-attachments/assets/ff994a98-116e-4c6b-8f88-b98358d61ff7" />
+
+8. Laporan Ringkas
+<img width="551" height="112" alt="8laporanadmin" src="https://github.com/user-attachments/assets/d84409e0-ead4-4469-940c-db63a0d3a47a" />
+
+**User DONIFY**
+
+1. Registrasi Akun Baru
+<img width="262" height="115" alt="14menuregis" src="https://github.com/user-attachments/assets/6343a2df-0e89-49ee-b3ed-9e435bf82f13" />
+
+2. Login DONIFY
+<img width="242" height="73" alt="login" src="https://github.com/user-attachments/assets/125bc184-e495-4e0c-9318-3ed63cc40ebc" />
+
+3. Menu DONIFY
+<img width="253" height="150" alt="9menuuser" src="https://github.com/user-attachments/assets/8af853c5-4854-454a-8aa0-3ab2b6a00afe" />
+
+4. Lihat Kampanye
+<img width="642" height="240" alt="3adminuserlihat" src="https://github.com/user-attachments/assets/802d1415-e1e1-4a4e-9a4b-6bbce41e74fd" />
+
+5. Cek Saldo
+<img width="250" height="57" alt="10ceksaldo" src="https://github.com/user-attachments/assets/86e8ff98-6401-434f-a24d-2b668506e9ec" />
+
+6. Top Up Saldo
+<img width="323" height="205" alt="11topup" src="https://github.com/user-attachments/assets/13ecb13d-96b5-4377-923a-ded6b52f4575" />
+
+7. Donasi Kampanye
+<img width="332" height="237" alt="12donasi" src="https://github.com/user-attachments/assets/f10df0f5-73ba-457c-8d16-0a6c84f1b472" />
+
+8. Riwayat Donasi
+<img width="568" height="187" alt="13riwayatdonasi" src="https://github.com/user-attachments/assets/3febf29f-29ef-41de-9449-9523804f4078" />
+
+0. Log Out
+<img width="256" height="110" alt="15logout" src="https://github.com/user-attachments/assets/f12830f6-840f-4b4f-962e-f5a61a7d4b80" />
+
 **C. Tabel Kontribusi**
 |**Nama**|**Kontribusi**|**Bagian**|
 |---|---|---|
