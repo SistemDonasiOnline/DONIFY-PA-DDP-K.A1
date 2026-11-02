@@ -63,7 +63,7 @@ Setelah masuk ke Menu User, sistem menampilkan pilihan menu yang terdiri dari Li
 <br>
 
 Tabel Kontribusi
-|**Nama**|**Kontribusi 	Bagian**|
+|**Nama**|**Kontribusi**|**Bagian**|
 |---|---|---|
 |AWANG FARID AL BUHARI (2609116003)|Konsep, Coding|	1.	Referensi konsep program<br> 2.	Coding |
 |MUHAMMAD IHSAN (2609116009)|Coding, Pengecekan|	1.	Coding Halaman Utama,   dan User<br> 2.	Pengecekan Bug dan Error|
