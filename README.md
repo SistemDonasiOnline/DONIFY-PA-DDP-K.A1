@@ -64,15 +64,9 @@ Setelah masuk ke Menu User, sistem menampilkan pilihan menu yang terdiri dari Li
 
 Tabel Kontribusi
 |**Nama**|**Kontribusi 	Bagian**|
-|---|---|
-|AWANG FARID AL BUHARI (2609116003)|Konsep, Coding|	1.	Referensi konsep program 2.	Coding |
-MUHAMMAD IHSAN
-(2609116009) 	Coding, Pengecekan	1.	Coding Halaman Utama,   dan User
-2.	Pengecekan Bug dan Error
-JIHANUN SYAM NAFI'AH
-(26091160)	Laporan 	1.	Konsep dan penyusunan Laporan 
-
-MUTHIARA MAY LISTA
-(2609116020)	Flowchart, Pengecekan	1.	 Penyusun Alur Flowchart
-2.	Pengecekan Laporan
+|---|---|---|
+|AWANG FARID AL BUHARI (2609116003)|Konsep, Coding|	1.	Referensi konsep program<br> 2.	Coding |
+|MUHAMMAD IHSAN (2609116009)|Coding, Pengecekan|	1.	Coding Halaman Utama,   dan User<br> 2.	Pengecekan Bug dan Error|
+|JIHANUN SYAM NAFI'AH (26091160)|Laporan|	1.	Konsep dan penyusunan Laporan |
+|MUTHIARA MAY LISTA (2609116020)|Flowchart, Pengecekan|	1.	 Penyusun Alur Flowchart<br> 2.	Pengecekan Laporan|
 
