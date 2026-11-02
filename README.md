@@ -94,7 +94,7 @@ Setelah masuk ke Menu User, sistem menampilkan pilihan menu yang terdiri dari Li
 
 **User DONIFY**
 
-1. Registrasi Akun Baru (pilihan menu ke-2)
+1. Registrasi Akun Baru (menu ke-2)
 <img width="262" height="115" alt="14menuregis" src="https://github.com/user-attachments/assets/6343a2df-0e89-49ee-b3ed-9e435bf82f13" />
 
 2. Login DONIFY
