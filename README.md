@@ -62,3 +62,17 @@ Penjelasan:<br>
 Setelah masuk ke Menu User, sistem menampilkan pilihan menu yang terdiri dari Lihat Kampanye, Cek Saldo, Top Up Saldo, Donasi, Invoice, dan Logout. Pada pilihan Lihat Kampanye, sistem memuat data dari file kampanye.json lalu menampilkannya kepada pengguna, sedangkan pada pilihan Cek Saldo, sistem memuat data akun dari Login.json dan menampilkan saldo yang dimiliki. Selanjutnya, pada pilihan Top Up Saldo, pengguna memilih nominal yang tersedia, lalu sistem memvalidasinya dan menambahkan saldo ke data akun jika input benar. Pada pilihan Donasi, pengguna memilih kampanye berdasarkan ID dan memasukkan nominal donasi, kemudian sistem memeriksa apakah saldo cukup serta nominalnya valid sebelum mencatat transaksi ke transaksi.json. Pilihan Invoice berfungsi menampilkan bukti transaksi yang telah dilakukan, sedangkan Logout mengembalikan pengguna ke Menu Utama. Setiap proses yang selesai akan kembali ke Menu User, di mana input yang kosong atau tidak valid akan ditolak sehingga pengguna diminta untuk memilih ulang.
 <br>
 
+Tabel Kontribusi
+|**Nama**|**Kontribusi 	Bagian**|
+|---|---|
+|AWANG FARID AL BUHARI (2609116003)|Konsep, Coding|	1.	Referensi konsep program 2.	Coding |
+MUHAMMAD IHSAN
+(2609116009) 	Coding, Pengecekan	1.	Coding Halaman Utama,   dan User
+2.	Pengecekan Bug dan Error
+JIHANUN SYAM NAFI'AH
+(26091160)	Laporan 	1.	Konsep dan penyusunan Laporan 
+
+MUTHIARA MAY LISTA
+(2609116020)	Flowchart, Pengecekan	1.	 Penyusun Alur Flowchart
+2.	Pengecekan Laporan
+
