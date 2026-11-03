@@ -125,11 +125,17 @@ Pada menu 6 ini sistem menampilkan Laporan Ringkas dari data kampanye yang terdi
 
 **User DONIFY**
 
+Disini akan membahas pilihan menu jika login sebagai User
+
 1. Registrasi Akun Baru (menu ke-2)
 <img width="262" height="115" alt="14menuregis" src="https://github.com/user-attachments/assets/6343a2df-0e89-49ee-b3ed-9e435bf82f13" />
 
+Menu registrasi akun baru ini hanya ada di menu User yaitu di pilihan menu ke 2 dimana disini user akan diminta untuk menginput username dan password. Jika sudah maka registrasi berhasil dan sistem meminta User untuk Login.
+
 2. Login DONIFY
 <img width="242" height="73" alt="login" src="https://github.com/user-attachments/assets/125bc184-e495-4e0c-9318-3ed63cc40ebc" />
+
+Di menu Login, User diminta menginput Username dan Password yang sudah tersimpan di data. Jika Username dan Password yang diinput tidak tersedia di data maka User harus registrasi akun baru. Karena menu Login hanya bisa di akses dengan menggunakan Username dan Password dari data yang tersimpan.
 
 3. Menu Donatur
 <img width="253" height="150" alt="9menuuser" src="https://github.com/user-attachments/assets/8af853c5-4854-454a-8aa0-3ab2b6a00afe" />
