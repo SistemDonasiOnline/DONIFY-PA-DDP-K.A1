@@ -140,8 +140,12 @@ Di menu Login, User diminta menginput Username dan Password yang sudah tersimpan
 3. Menu Donatur
 <img width="253" height="150" alt="9menuuser" src="https://github.com/user-attachments/assets/8af853c5-4854-454a-8aa0-3ab2b6a00afe" />
 
+Jika sudah berhasil Login, sistem menampilkan menu pilihan User atau Donatur, dimana menu Donatur ini terdiri dari Lihat Kampanye, Cek Saldo, Top Up Saldo, Donasi, Riwayat Donasi Saya, dan Logout. Sistem diminta unbtuk memasukkan pilihan menu yang ingin di akses.
+
 4. Lihat Kampanye
 <img width="642" height="240" alt="3adminuserlihat" src="https://github.com/user-attachments/assets/802d1415-e1e1-4a4e-9a4b-6bbce41e74fd" />
+
+Menu pertama yaitu Lihat Kampanye, disini 
 
 5. Cek Saldo
 <img width="250" height="57" alt="10ceksaldo" src="https://github.com/user-attachments/assets/86e8ff98-6401-434f-a24d-2b668506e9ec" />
