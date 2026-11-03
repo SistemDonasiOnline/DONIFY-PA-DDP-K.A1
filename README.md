@@ -11,13 +11,17 @@
 
 
 ## 📝 Deskripsi Proyek Akhir Dasar Pemrograman
-**DONIFY** adalah sebuah sistem atau platform manajemen donasi digital berbasis CLI/aplikasi yang dirancang untuk mempermudah proses penggalangan dana, penyaluran, serta transparansi laporan keuangan donasi kepada masyarakat luas. Aplikasi ini dibangun untuk menghubungkan para **Donatur** (masyarakat/dermawan) yang ingin menyisihkan sebagian rezekinya dengan **Admin/Pengelola** yang bertugas memverifikasi, mengelola kampanye sosial (campaign), serta mencatat seluruh transaksi masuk dan keluar secara akurat.
+**DONIFY** adalah sebuah sistem atau platform manajemen donasi digital berbasis CLI/aplikasi yang dirancang untuk mempermudah proses penggalangan dana, penyaluran, serta transparansi laporan keuangan donasi kepada masyarakat luas. Aplikasi ini dibangun untuk menghubungkan para **Donatur** (masyarakat/dermawan) yang ingin menyisihkan sebagian rezekinya dengan **Admin/Pengelola** yang bertugas memverifikasi, mengelola kampanye sosial (campaign), serta mencatat seluruh transaksi masuk dan keluar secara akurat. 
+
+Sistem ini juga dilengkapi dengan fitur login dan logout untuk menjaga keamanan akses pengguna, dengan password yang disembunyikan saat diketik menggunakan modul pwinput, serta menggunakan file JSON sebagai media penyimpanan utama untuk data akun, kampanye, dan transaksi. Tampilan program dibuat berbasis teks di terminal dengan bantuan modul PrettyTable, sehingga data dapat ditampilkan secara rapi dan mudah dibaca. Secara keseluruhan, program ini membantu mengoptimalkan pengelolaan donasi online dengan sistem yang sederhana, efisien, dan terorganisir sehingga memudahkan Admin maupun User dalam menjalankan aktivitasnya.
 
 ## ⭐ Tujuan Proyek Akhir Dasar Pemrograman
 
 1. **Meningkatkan Transparansi:** Menyediakan sistem pencatatan donasi yang transparan dan akuntabel sehingga setiap dana yang masuk terpapar jelas.
 2. **Mempermudah Akses Berdonasi:** Memberikan kemudahan bagi donatur untuk memilih kampanye sosial yang ingin didukung secara cepat dan efisien.
 3. **Efisiensi Pengelolaan Admin:** Membantu pihak pengelola dalam memvalidasi bukti transfer, mengelola data kampanye, serta menghasilkan laporan rekapitulasi dana secara otomatis.
+4. **Menerapkan konsep variabel dan tipe data:** Untuk mengolah informasi yang dibutuhkan program.
+5. **Menambah wawasan tentang sistem informasi:** Pengembangan program ini bisa membantu pengguna dan pembaca memahami bagaimana sebuah sistem informasi dirancang untuk mengelola data sesuai kebutuhan tertentu.
 
 
 ## 👨‍💻Fitur untuk Admin:
