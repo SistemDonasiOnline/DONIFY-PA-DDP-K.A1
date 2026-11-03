@@ -100,7 +100,7 @@ Ini tampilan menu Lihat Kampanye dimana output sistem kali ini menampilkan data 
 4. Tambah Kampanye
 <img width="355" height="132" alt="4tambahadmin" src="https://github.com/user-attachments/assets/e0f7df0e-cd59-4130-a13b-91c556aaa0e2" />
 
-Di menu kali ini Admin bisa menambah data kampanye 
+Di menu kali ini Admin bisa menambah data kampanye baru namun sistem meminta Admin untuk menginput nama kampanye, kategori kampanye, dan target donasi, Apabila semua data kampanye baru sudah di input oleh admin, maka sistem akan menampilkan Kampanye berhasil ditambahkan dan kembali ke menu.
 
 5. Ubah Kampanye
 <img width="732" height="321" alt="5ubahadmin" src="https://github.com/user-attachments/assets/3000fcac-6083-4881-afe4-e4d55caab7c5" />
