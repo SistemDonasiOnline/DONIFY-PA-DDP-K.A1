@@ -145,10 +145,12 @@ Jika sudah berhasil Login, sistem menampilkan menu pilihan User atau Donatur, di
 4. Lihat Kampanye
 <img width="642" height="240" alt="3adminuserlihat" src="https://github.com/user-attachments/assets/802d1415-e1e1-4a4e-9a4b-6bbce41e74fd" />
 
-Menu pertama yaitu Lihat Kampanye, disini 
+Menu pertama yaitu Lihat Kampanye, disini sistem menampilkan data kampanye yang ada di awal dengan tabel yang rapi karena menggunakan PrettyTable
 
 5. Cek Saldo
 <img width="250" height="57" alt="10ceksaldo" src="https://github.com/user-attachments/assets/86e8ff98-6401-434f-a24d-2b668506e9ec" />
+
+Di menu cek saldo, sistem memperlihatkan sisa saldo dari User atau Donatur. Jadi sebelum Donatur ingin berdonasi bisa melihat saldo terlebih dahulu apakah cukup untuk berdonasi dengan nominal sekian.
 
 6. Top Up Saldo
 <img width="323" height="205" alt="11topup" src="https://github.com/user-attachments/assets/13ecb13d-96b5-4377-923a-ded6b52f4575" />
