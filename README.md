@@ -150,16 +150,22 @@ Menu pertama yaitu Lihat Kampanye, disini sistem menampilkan data kampanye yang 
 5. Cek Saldo
 <img width="250" height="57" alt="10ceksaldo" src="https://github.com/user-attachments/assets/86e8ff98-6401-434f-a24d-2b668506e9ec" />
 
-Di menu cek saldo, sistem memperlihatkan sisa saldo dari User atau Donatur. Jadi sebelum Donatur ingin berdonasi bisa melihat saldo terlebih dahulu apakah cukup untuk berdonasi dengan nominal sekian.
+Di menu cek saldo, sistem memperlihatkan sisa saldo dari User atau Donatur. Jadi sebelum Donatur ingin berdonasi bisa melihat saldo terlebih dahulu apakah cukup untuk berdonasi dengan rencana nominal sekian.
 
 6. Top Up Saldo
 <img width="323" height="205" alt="11topup" src="https://github.com/user-attachments/assets/13ecb13d-96b5-4377-923a-ded6b52f4575" />
 
+Pilihan menu 3 yaitu Top Up saldo Donatur dimana donatur diarahkan untuk melakukan Top Up saldo. Sistem menunjukkan saldo donatur yang tersisa kemudia sistem memberi pilihan nominal top up yang bisa dipilih oleh donatur. Sistem juga meminta Donatur untuk menginput pilihan nomor dari nominal saldo yang ingin di Top Up, jika pilihan tersedia maka Top Up berhasil dan sistem menampilkan saldo donatur sesudah melakukan Top Up Saldo
+
 7. Donasi Kampanye
 <img width="332" height="237" alt="12donasi" src="https://github.com/user-attachments/assets/f10df0f5-73ba-457c-8d16-0a6c84f1b472" />
 
+Menu ini yaitu menu tujuan utama yaitu Donasi Kampanye. Disini sistem menampilkan jumlah saldo Donatur dan sistem meminta Donatur untuk menginput ID Kampanye yang ingin di donasi serta Nominal Donasi yang ingin kita berikan. Jika sudah, sistem menampilkan Invoice Donasi yang dimana berisi Waktu Donatur melakukan Donasi, Kode, Nama Doantur, Kategori Kampanye, Nominal Donasi dan sisa Saldo
+
 8. Riwayat Donasi
 <img width="568" height="187" alt="13riwayatdonasi" src="https://github.com/user-attachments/assets/3febf29f-29ef-41de-9449-9523804f4078" />
+
+Di menu ini sistem menampilkan Riwayat Donasi yang telah dilakukan oleh Donatur dan ditampilkan dalam tabel rapi berisi Kode, Waktu, Kampanye, dan Nominal.
 
 0. Log Out
 <img width="256" height="110" alt="15logout" src="https://github.com/user-attachments/assets/f12830f6-840f-4b4f-962e-f5a61a7d4b80" />
