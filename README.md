@@ -85,16 +85,22 @@ Di atas merupakan output pertama sistem yang menampilkan menu pilihan dimana aka
 1. Login DONIFY
 <img width="223" height="85" alt="loginadmin" src="https://github.com/user-attachments/assets/424d1c60-37c8-4556-9cfa-47aa0079c867" />
 
-Ini merupakan tampilan ketika memilih menu 1 yaitu Login, disini login sebagai Admin. Ketika login akan diminta memasukan username dan password, jika password benar maka akan diarahkan ke output selanjutnya namun jika password salah akan diminta memasukkan password lagi.
+Ini merupakan tampilan ketika memilih menu 1 yaitu Login, disini login sebagai Admin. Ketika login akan diminta memasukan username dan password, jika password benar maka akan diarahkan ke output selanjutnya namun jika password salah akan diminta memasukkan password lagi dengan kesempatan percobaan tersisa 2 kali.
 
 2. Menu Admin
 <img width="211" height="170" alt="2menuadmin" src="https://github.com/user-attachments/assets/5d3df7ec-cec4-45eb-802e-9ac28ae70415" />
 
+Berikut adalah tampilan menu admin ketika berhasil menginput password dengan benar.  Disini sistem menampilkan pilhan menu kepada admin dan admin diminta memasukkan pilihan.
+
 3. Lihat Kampanye
 <img width="642" height="240" alt="3adminuserlihat" src="https://github.com/user-attachments/assets/865b38a0-b41f-4a1a-bc9c-8b458a6d3677" />
 
+Ini tampilan menu Lihat Kampanye dimana output sistem kali ini menampilkan data kampanye yang sekarang atau yang sudah ada dengan menggunakan tabel rapi.
+
 4. Tambah Kampanye
 <img width="355" height="132" alt="4tambahadmin" src="https://github.com/user-attachments/assets/e0f7df0e-cd59-4130-a13b-91c556aaa0e2" />
+
+Di menu kali ini Admin bisa menambah data kampanye 
 
 5. Ubah Kampanye
 <img width="732" height="321" alt="5ubahadmin" src="https://github.com/user-attachments/assets/3000fcac-6083-4881-afe4-e4d55caab7c5" />
