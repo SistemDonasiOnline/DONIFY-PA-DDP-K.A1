@@ -110,13 +110,18 @@ Pada menu ini Admin bisa mengubah data kampanye dengan sistem menampilkan data k
 6. Hapus Kampanye
 <img width="653" height="303" alt="6hapusadmin" src="https://github.com/user-attachments/assets/814f35af-00ab-43fb-a4b2-5db9113a019f" />
 
-Sesuai namanya, di menu ini Admin bisa menghapus data kampanye 
+Sesuai namanya, di menu ini Admin bisa menghapus data kampanye yang tersedia dan data kampanye ditampilkan disini oleh karena itu Admin bisa memilih data yang dihapus. Sistem meminta Admin menginput ID Kampanye yang ingin dihapus, lalu sistem akan menanyakan apakah yakin ingin menghapus, jika "y" data berhasil dihapus dan sistem menampilkan Kampanye dihapus.
 
 7. Riwayat Semua Transaksi
 <img width="623" height="305" alt="7riwayatadmin" src="https://github.com/user-attachments/assets/ff994a98-116e-4c6b-8f88-b98358d61ff7" />
 
+Di menu ini sistem menampilkan semnua Riwayat Transaksi yang dilakukan dengan menggunakan PrettyTable sehingga table yang ditampilkan di output rapi dan bagus
+
 8. Laporan Ringkas
 <img width="551" height="112" alt="8laporanadmin" src="https://github.com/user-attachments/assets/d84409e0-ead4-4469-940c-db63a0d3a47a" />
+
+Pada menu 6 ini sistem menampilkan Laporan Ringkas dari data kampanye yang terdiri dari Total donasi masuk, jumlah transaksi, dan kampanye unggulan.
+
 
 **User DONIFY**
 
