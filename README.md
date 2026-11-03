@@ -1,14 +1,11 @@
 ## PROJECT AKHIR DASAR PEMROGRAMAN; SISTEM DONASI ONLINE.
 
 ### Kelompok A1 (DONIFY) :
-|**Nama**|**Kontribusi**|**Bagian**|
-|---|---|---|
-|AWANG FARID AL BUHARI (2609116003)|Coding| 1.	Coding<br> 2. Logika Program<br> 3. Pengembangan pada Program<br>|
-|MUHAMMAD IHSAN (2609116009)|Coding, Pengecekan|	1.	Coding Halaman Utama,   dan User<br> 2.	Pengecekan Bug dan Error<br> 3. Logika Program<br> 4. Finishing Program|
-|JIHANUN SYAM NAFI'AH (2609116017)|Laporan|	1.	Konsep dan penyusunan Laporan<br> 2. Pengembangan Laporan<br> 3. Finishing Laporan|
-|MUTHIARA MAY LISTA (2609116020)|Flowchart, Pengecekan, Konsep, Laporan|	1.	 Pengecekan alur program & flowchart<br> 2.	Pengembangan alur Flowchart<br> 3. Design Flowchart<br> 4. Finishing Flowchart<br> 5. Pengecekan & Peformatan Laporan|
+1. Awang Farid Al Buhari - 2609116003 (Project Leader)
+2. Muhammad Ihsan - 2609116009 (Anggota)
+3. Jihanun Syam Nafi'ah - 2609116017 (Anggota)
+4. Muthiara May Lista - 2609116020 (Anggota)
 <br>
-
 
 ## 📝 Deskripsi Proyek Akhir Dasar Pemrograman
 **DONIFY** adalah sebuah sistem atau platform manajemen donasi digital berbasis CLI/aplikasi yang dirancang untuk mempermudah proses penggalangan dana, penyaluran, serta transparansi laporan keuangan donasi kepada masyarakat luas. Aplikasi ini dibangun untuk menghubungkan para **Donatur** (masyarakat/dermawan) yang ingin menyisihkan sebagian rezekinya dengan **Admin/Pengelola** yang bertugas memverifikasi, mengelola kampanye sosial (campaign), serta mencatat seluruh transaksi masuk dan keluar secara akurat. 
