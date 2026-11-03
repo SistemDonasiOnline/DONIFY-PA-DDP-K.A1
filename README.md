@@ -169,3 +169,5 @@ Di menu ini sistem menampilkan Riwayat Donasi yang telah dilakukan oleh Donatur 
 
 0. Log Out
 <img width="256" height="110" alt="15logout" src="https://github.com/user-attachments/assets/f12830f6-840f-4b4f-962e-f5a61a7d4b80" />
+
+Menu yang terakhir yaitu Logout dimana pada menu ini Doantur di arahkan oleh sistem untuk kembali ke menu awal DONIFY dan login kembali sebagai User atau Admin
