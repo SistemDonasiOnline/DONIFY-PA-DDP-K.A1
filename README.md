@@ -78,10 +78,14 @@ Setelah masuk ke Menu User, sistem menampilkan pilihan menu yang terdiri dari Li
 
 <img width="214" height="105" alt="1menuutama" src="https://github.com/user-attachments/assets/c9760eaf-3719-4cbc-bccd-45beae98b8eb" />
 
+Di atas merupakan output pertama sistem yang menampilkan menu pilihan dimana akan menentukan login sebagai User atau Admin 
+
 **Admin DONIFY**
 
 1. Login DONIFY
 <img width="223" height="85" alt="loginadmin" src="https://github.com/user-attachments/assets/424d1c60-37c8-4556-9cfa-47aa0079c867" />
+
+Ini merupakan tampilan ketika memilih menu 1 yaitu Login, disini login sebagai Admin. Ketika login akan diminta memasukan username dan password, jika password benar maka akan diarahkan ke output selanjutnya namun jika password salah akan diminta memasukkan password lagi.
 
 2. Menu Admin
 <img width="211" height="170" alt="2menuadmin" src="https://github.com/user-attachments/assets/5d3df7ec-cec4-45eb-802e-9ac28ae70415" />
