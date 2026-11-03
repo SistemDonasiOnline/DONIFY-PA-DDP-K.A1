@@ -1,10 +1,12 @@
 PROJECT AKHIR DASAR PEMROGRAMAN; SISTEM DONASI ONLINE.
 
 Kelompok A1 (DONIFY):
-1. Awang Farid Al Buhari (2609116003)
-2. Muhammad Ihsan (2609116009)
-3. Jihanun Syam Nafi'ah (2609116017)
-4. Muthiara May Lista (2609116020)
+|**Nama**|**Kontribusi**|**Bagian**|
+|---|---|---|
+|AWANG FARID AL BUHARI (2609116003)|Konsep, Coding|	1.	Referensi konsep program<br> 2.	Coding |
+|MUHAMMAD IHSAN (2609116009)|Coding, Pengecekan|	1.	Coding Halaman Utama,   dan User<br> 2.	Pengecekan Bug dan Error|
+|JIHANUN SYAM NAFI'AH (26091160)|Laporan|	1.	Konsep dan penyusunan Laporan |
+|MUTHIARA MAY LISTA (2609116020)|Flowchart, Pengecekan|	1.	 Penyusun Alur Flowchart<br> 2.	Pengecekan Laporan|
 <br>
 
 
@@ -71,7 +73,7 @@ Setelah masuk ke Menu User, sistem menampilkan pilihan menu yang terdiri dari Li
 1. Login DONIFY
 <img width="223" height="85" alt="loginadmin" src="https://github.com/user-attachments/assets/424d1c60-37c8-4556-9cfa-47aa0079c867" />
 
-2. Menu DONIFY
+2. Menu Admin
 <img width="211" height="170" alt="2menuadmin" src="https://github.com/user-attachments/assets/5d3df7ec-cec4-45eb-802e-9ac28ae70415" />
 
 3. Lihat Kampanye
@@ -100,7 +102,7 @@ Setelah masuk ke Menu User, sistem menampilkan pilihan menu yang terdiri dari Li
 2. Login DONIFY
 <img width="242" height="73" alt="login" src="https://github.com/user-attachments/assets/125bc184-e495-4e0c-9318-3ed63cc40ebc" />
 
-3. Menu DONIFY
+3. Menu Donatur
 <img width="253" height="150" alt="9menuuser" src="https://github.com/user-attachments/assets/8af853c5-4854-454a-8aa0-3ab2b6a00afe" />
 
 4. Lihat Kampanye
@@ -120,12 +122,3 @@ Setelah masuk ke Menu User, sistem menampilkan pilihan menu yang terdiri dari Li
 
 0. Log Out
 <img width="256" height="110" alt="15logout" src="https://github.com/user-attachments/assets/f12830f6-840f-4b4f-962e-f5a61a7d4b80" />
-
-**C. Tabel Kontribusi**
-|**Nama**|**Kontribusi**|**Bagian**|
-|---|---|---|
-|AWANG FARID AL BUHARI (2609116003)|Konsep, Coding|	1.	Referensi konsep program<br> 2.	Coding |
-|MUHAMMAD IHSAN (2609116009)|Coding, Pengecekan|	1.	Coding Halaman Utama,   dan User<br> 2.	Pengecekan Bug dan Error|
-|JIHANUN SYAM NAFI'AH (26091160)|Laporan|	1.	Konsep dan penyusunan Laporan |
-|MUTHIARA MAY LISTA (2609116020)|Flowchart, Pengecekan|	1.	 Penyusun Alur Flowchart<br> 2.	Pengecekan Laporan|
-
