@@ -105,8 +105,12 @@ Di menu kali ini Admin bisa menambah data kampanye baru namun sistem meminta Adm
 5. Ubah Kampanye
 <img width="732" height="321" alt="5ubahadmin" src="https://github.com/user-attachments/assets/3000fcac-6083-4881-afe4-e4d55caab7c5" />
 
+Pada menu ini Admin bisa mengubah data kampanye dengan sistem menampilkan data kampanye terbaru lalu admin diminta untuk memasukkan ID Kampanye yang ingin diubah, nama kampanye baru, dan target donasi baru. Jika semua data yang diminta sistem di input dengan sesuai maka sistem Kampanye berhasil diubah dan data akan terubah juga.
+
 6. Hapus Kampanye
 <img width="653" height="303" alt="6hapusadmin" src="https://github.com/user-attachments/assets/814f35af-00ab-43fb-a4b2-5db9113a019f" />
+
+Sesuai namanya, di menu ini Admin bisa menghapus data kampanye 
 
 7. Riwayat Semua Transaksi
 <img width="623" height="305" alt="7riwayatadmin" src="https://github.com/user-attachments/assets/ff994a98-116e-4c6b-8f88-b98358d61ff7" />
