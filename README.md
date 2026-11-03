@@ -3,10 +3,10 @@
 ### Kelompok A1 (DONIFY) :
 |**Nama**|**Kontribusi**|**Bagian**|
 |---|---|---|
-|AWANG FARID AL BUHARI (2609116003)|Konsep, Coding|	1.	Referensi konsep program<br> 2.	Coding |
-|MUHAMMAD IHSAN (2609116009)|Coding, Pengecekan|	1.	Coding Halaman Utama,   dan User<br> 2.	Pengecekan Bug dan Error|
-|JIHANUN SYAM NAFI'AH (2609116017)|Laporan|	1.	Konsep dan penyusunan Laporan |
-|MUTHIARA MAY LISTA (2609116020)|Flowchart, Pengecekan|	1.	 Penyusun Alur Flowchart<br> 2.	Pengecekan Laporan|
+|AWANG FARID AL BUHARI (2609116003)|Coding| 1.	Coding<br> 2. Logika Program<br> 3. Pengembangan pada Program<br>|
+|MUHAMMAD IHSAN (2609116009)|Coding, Pengecekan|	1.	Coding Halaman Utama,   dan User<br> 2.	Pengecekan Bug dan Error<br> 3. Logika Program<br> 4. Finishing Program|
+|JIHANUN SYAM NAFI'AH (2609116017)|Laporan|	1.	Konsep dan penyusunan Laporan<br> 2. Pengembangan Laporan<br> 3. Finishing Laporan|
+|MUTHIARA MAY LISTA (2609116020)|Flowchart, Pengecekan, Konsep, Laporan|	1.	 Pengecekan alur program & flowchart<br> 2.	Pengembangan alur Flowchart<br> 3. Design Flowchart<br> 4. Finishing Flowchart<br> 5. Pengecekan & Peformatan Laporan|
 <br>
 
 
